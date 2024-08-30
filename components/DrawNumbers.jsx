@@ -26,6 +26,6 @@ const DrawNumbers = () => {
       </div>
     </div>
   );
-};
+  };
 
 export default DrawNumbers;
