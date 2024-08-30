@@ -1,0 +1,19 @@
+.logoContainer {
+  text-align: center;
+  margin: 10px;
+  background-color: #2a3d28; 
+  padding: 20px; 
+  border-radius: 8px;
+}
+
+.logoImage {
+  border: 2px solid #000000; 
+  border-radius: 6px;  
+  box-shadow: 0 4px 8px rgb(0, 0, 0);
+  transition: transform 0.3s ease;
+}
+
+.logoImage:hover {
+  transform: scale(1.1); 
+ 
+}
